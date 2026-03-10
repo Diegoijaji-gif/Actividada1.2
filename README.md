@@ -1,9 +1,9 @@
-# 📝 Simulador Undo/Redo - Editor de Texto Simple
+#  Simulador Undo/Redo - Editor de Texto Simple
 
 **Autor:** Diego Fernando Daza Ijaji  
 **Asignatura:** Estructuras de Datos  
 **Institución:** IU Digital Antioquia  
-**Fecha:** Marzo 2025
+**Fecha:8 Marzo 2026
 
 ---
 
@@ -176,7 +176,7 @@ Al completar este proyecto, el estudiante habrá aprendido:
 
 **Diego Fernando Daza Ijaji**  
 IU Digital Antioquia  
-10 de Marzo 2026
+8 de Marzo 2026
 
 ---
 
