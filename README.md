@@ -3,7 +3,7 @@
 **Autor:** Diego Fernando Daza Ijaji  
 **Asignatura:** Estructuras de Datos  
 **Institución:** IU Digital Antioquia  
-**Fecha:8 Marzo 2026
+**Fecha:8 de Marzo 2026
 
 ---
 
