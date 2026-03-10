@@ -120,46 +120,23 @@ Gestiona la interacción con el usuario y controla el flujo del programa.
 ## 📸 Capturas de Pantalla de la Ejecución
 
 ### Pantalla 1: Menú Principal
-```
-===== MENU =====
-1. Escribir texto
-2. Deshacer
-3. Rehacer
-4. Mostrar texto actual
-5. Salir
-
-Seleccione una opción:
-```
+![img_13.png](img_13.png)
 
 ### Pantalla 2: Escribir Texto
-```
-Seleccione una opción: 1
-Ingrese texto: Hola Mundo
-Texto agregado: Hola Mundo
-```
+![img_1.png](img_1.png)
 
 ### Pantalla 3: Mostrar Texto Actual
-```
-Seleccione una opción: 4
-Contenido actual del editor:
-Hola Mundo
-```
+![img_3.png](img_3.png)
 
 ### Pantalla 4: Deshacer Acción
-```
-Seleccione una opción: 2
-Se deshizo: Hola Mundo
-```
+![img_4.png](img_4.png)
 
 ### Pantalla 5: Rehacer Acción
-```
-Seleccione una opción: 3
-Se rehizo: Hola Mundo
-```
 
+![img_8.png](img_8.png)
 ---
 
-## 🎯 Conceptos Clave Implementados
+## Conceptos Clave Implementados
 
 ### Estructura de Datos: Pila (Stack)
 Una **pila** es una estructura de datos que sigue el principio **LIFO** (Last In, First Out):
@@ -171,68 +148,36 @@ Una **pila** es una estructura de datos que sigue el principio **LIFO** (Last In
 - **Redo (Rehacer):** Retira el elemento de la pila de deshacer y lo vuelve a agregar a la pila de acciones
 
 ### Ventajas de esta Estructura
-✅ Eficiencia: Operaciones O(1) para push, pop y peek  
-✅ Simplicidad: Fácil de entender e implementar  
-✅ Aplicabilidad: Usada en navegadores, editores de texto, compiladores, etc.
+ Eficiencia: Operaciones O(1) para push, pop y peek  
+ Simplicidad: Fácil de entender e implementar  
+ Aplicabilidad: Usada en navegadores, editores de texto, compiladores, etc.
 
 ---
 
-## 🔗 Control de Versiones con GitHub
 
-Este proyecto utiliza **Git** para control de versiones. Comandos útiles:
-
-```bash
-# Ver estado del repositorio
-git status
-
-# Agregar cambios
-git add .
-
-# Crear un commit
-git commit -m "Descripción del cambio"
-
-# Subir cambios a GitHub
-git push origin main
-
-# Descargar cambios
-git pull origin main
-```
-
----
-
-## 📚 Aprendizajes Principales
+##  Aprendizajes Principales
 
 Al completar este proyecto, el estudiante habrá aprendido:
 
-1. ✅ Implementación de pilas desde cero
-2. ✅ Aplicación práctica de estructuras de datos
-3. ✅ Patrones de diseño (como el patrón de Command con Undo/Redo)
-4. ✅ Buenas prácticas de programación en Java
-5. ✅ Uso de control de versiones con Git y GitHub
-6. ✅ Desarrollo de interfaces de usuario en consola
+1.  Implementación de pilas desde cero
+2.  Aplicación práctica de estructuras de datos
+3.  Patrones de diseño (como el patrón de Command con Undo/Redo)
+4.  Buenas prácticas de programación en Java
+5.  Uso de control de versiones con Git y GitHub
+6.  Desarrollo de interfaces de usuario en consola
 
 ---
 
-## 📝 Notas
 
-- La aplicación es de tipo consola y no tiene interfaz gráfica
-- Los datos se pierden al cerrar la aplicación (no hay persistencia)
-- Para una versión mejorada, se podría agregar:
-  - Interfaz gráfica (Swing/JavaFX)
-  - Persistencia en archivos
-  - Historial de cambios más complejo
 
 ---
 
-## 👨‍💻 Autor
+##  Autor
 
 **Diego Fernando Daza Ijaji**  
 IU Digital Antioquia  
-Marzo 2025
+10 de Marzo 2026
 
 ---
 
-## 📄 Licencia
-
-Este proyecto es de carácter educativo y está disponible bajo la licencia MIT.
 
